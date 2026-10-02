@@ -19,10 +19,10 @@ Hello from Java! Author: penguin_java
 ```
 
 ## Błąd i poprawka (zadanie 5)
-- Krótki fragment komunikatu błędu i numer linii: ...
-- Przyczyna oraz sposób naprawy: ...
-- Commit z błędem (SHA lub link): ...
-- Czy Actions pokazały błąd, a po naprawie sukces? ...
+- Krótki fragment komunikatu błędu i numer linii: cpp/main.cpp:5:73: error: expected ';' before 'return'
+- Przyczyna oraz sposób naprawy: Brak średnika ; na końcu linii 5; dodanie ;
+- Commit z błędem (SHA lub link): 3c2de88
+- Czy Actions pokazały błąd, a po naprawie sukces? Tak
 
 ## Krótkie odpowiedzi
 1. Co różni commit od push? commit to lokalne zapisanie zmian w kodzie, a push to wyslanie tych zapisanych zmian na serwer zdalny.
