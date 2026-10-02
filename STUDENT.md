@@ -33,8 +33,8 @@ Hello from Java! Author: nowakmateusz2006-blip
 
 ## Krótkie odpowiedzi
 1. Co różni commit od push? commit to lokalne zapisanie zmian w kodzie, a push to wyslanie tych zapisanych zmian na serwer zdalny.
-2. Dlaczego po scaleniu PR wykonuję lokalnie pull? ...
-3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? ...
+2. Dlaczego po scaleniu PR wykonuję lokalnie pull? Git pull wykonuje się, aby zaktualizować lokalny kod o zmiany scalone na serwerze i uniknąć konfliktów w przyszłości.
+3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? Zielony wynik CI potwierdza, że kod pomyślnie przeszedł automatyczne testy i buduje się bez błędów, ale nie gwarantuje braku ukrytych bugów logicznych oraz poprawnego działania po scaleniu z główną gałęzią.
 
 ## Ewentualne problemy środowiska
 Brak / opis problemu i sposób rozwiązania: ...
