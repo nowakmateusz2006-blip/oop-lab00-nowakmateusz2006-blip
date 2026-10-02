@@ -14,7 +14,8 @@ Wynik programu C++:
 Hello from C++! Author: studentstudent
 ```
 Wynik programu Java:
-```Hello from Java! Author: penguin_java
+```
+Hello from Java! Author: penguin_java
 ```
 
 ## Błąd i poprawka (zadanie 5)
