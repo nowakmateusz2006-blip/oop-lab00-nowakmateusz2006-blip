@@ -10,7 +10,8 @@
 
 ## Uruchomienie lokalne
 Wynik programu C++:
-```Hello from C++! Author: studentstudent
+```
+Hello from C++! Author: studentstudent
 ```
 Wynik programu Java:
 ```Hello from Java! Author: penguin_java
