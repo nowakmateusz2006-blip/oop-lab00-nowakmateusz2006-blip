@@ -10,12 +10,10 @@
 
 ## Uruchomienie lokalne
 Wynik programu C++:
-```text
-...
+```Hello from C++! Author: studentstudent
 ```
 Wynik programu Java:
-```text
-...
+```Hello from Java! Author: penguin_java
 ```
 
 ## Błąd i poprawka (zadanie 5)
