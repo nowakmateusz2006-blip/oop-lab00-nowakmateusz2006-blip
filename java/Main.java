@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         // Zadanie 3: dopisz login lub pseudonim do komunikatu.
-        System.out.println("Hello from Java! Author: penguin_java");
+        System.out.println("Hello from Java! Author: nowakmateusz2006-blip");
     }
 }
