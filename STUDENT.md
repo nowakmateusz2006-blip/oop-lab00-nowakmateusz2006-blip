@@ -19,10 +19,10 @@ Hello from Java! Author: penguin_java
 ```
 
 ## Błąd i poprawka (zadanie 5)
-- Krótki fragment komunikatu błędu i numer linii: ...
-- Przyczyna oraz sposób naprawy: ...
-- Commit z błędem (SHA lub link): ...
-- Czy Actions pokazały błąd, a po naprawie sukces? ...
+- Krótki fragment komunikatu błędu i numer linii: `cpp/main.cpp:5:73: error: expected ';' before 'return'` (linia 5)
+- Przyczyna oraz sposób naprawy: Brak średnika `;` na końcu instrukcji `std::cout`. Naprawa polega na dopisaniu `;` na końcu linii 5.
+- Commit z błędem (SHA lub link): Wprowadzenie błędu braku średnika w C++
+- Czy Actions pokazały błąd, a po naprawie sukces? Tak, Actions wygenerowały błąd (exit code 1), a po naprawieniu i wypchnięciu kodu wynik był zielony.
 
 ## Krótkie odpowiedzi
 1. Co różni commit od push? commit to lokalne zapisanie zmian w kodzie, a push to wyslanie tych zapisanych zmian na serwer zdalny.
